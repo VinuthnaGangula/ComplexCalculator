@@ -4,7 +4,7 @@
 
 complex_no num1={0,0};
 complex_no num2={0,0};
-complex_no res;
+complex_no res={0,0};
 
 void setUp(void){}
 void tearDown(void){}
