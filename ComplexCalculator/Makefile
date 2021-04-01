@@ -14,5 +14,5 @@ $(PROJECT_NAME).out: $(SRC) $(TEST)
 run: $(PROJECT_NAME).out
 	./$(PROJECT_NAME).out
 
-clean :
+clean:
 	rm *.out
